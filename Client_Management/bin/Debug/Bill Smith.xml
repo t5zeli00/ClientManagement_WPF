@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<information xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ClientName>Bill Smith</ClientName>
+  <ClientEmail>bill.smith@mail.com</ClientEmail>
+  <ClientBackground>Test Bill background</ClientBackground>
+  <ClientPlan>Test Bill plan</ClientPlan>
+  <ClientStart>29.10.2018 0:00:00</ClientStart>
+  <ClientEnd>28.11.2018 0:00:00</ClientEnd>
+</information>

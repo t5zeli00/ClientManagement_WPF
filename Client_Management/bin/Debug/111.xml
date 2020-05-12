@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<information xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ClientName>111</ClientName>
+  <ClientEmail>11@mail.ru</ClientEmail>
+  <ClientBackground>111</ClientBackground>
+  <ClientPlan>111</ClientPlan>
+  <ClientStart>31.01.2020 0:00:00</ClientStart>
+  <ClientEnd>01.03.2020 0:00:00</ClientEnd>
+</information>
